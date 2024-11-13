@@ -12,7 +12,6 @@
 
 <br>
 
-- Estudiante de informática con más de cuatro años de experiencia.
 - Enfocado en desarrollo backend y arquitectura de software.
 - Siempre aprendiendo sobre nuevas tecnologías y metodologías de desarrollo.
 - Actualmente, busco oportunidades para colaborar en proyectos que me permitan aplicar mis conocimientos y seguir creciendo.
@@ -88,8 +87,8 @@
 <div align="center">
 
 <a href="https://github.com/BaenaArnau">
-  <img src="https://github-readme-stats.vercel.app/api?username=Macnacka&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Macnacka&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375" alt="Macnacka"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=BaenaArnau&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BaenaArnau&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375" alt="Macnacka"/>
 
 </a>
 </div>
