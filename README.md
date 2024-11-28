@@ -13,7 +13,7 @@
 - 🌱 Enfocado en desarrollo backend y arquitectura de software.
 - 📚 Siempre aprendiendo sobre nuevas tecnologías y metodologías de desarrollo.
 - 🎯 Actualmente, busco oportunidades para colaborar en proyectos que me permitan aplicar mis conocimientos y seguir creciendo.
-- 💼 Puedes consultar mi perfil de LinkedIn aquí: [LinkedIn](https://www.linkedin.com/in/arnau-baena-perez-862161298)
+- 💼 Puedes consultar mi perfil de LinkedIn aquí: [LinkedIn](https://www.linkedin.com/in/arnau-baena-perez)
 
 <br>
 
@@ -106,7 +106,7 @@
 <ul>
 
 <li>
-<a href="https://www.linkedin.com/in/arnau-baena-perez-862161298" target="_blank">
+<a href="https://www.linkedin.com/in/arnau-baena-perez" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:%20Arnau%20Baena-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
