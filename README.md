@@ -10,16 +10,14 @@
 
 <picture><img align="right" src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="250px"></picture>
 
+- 🌱 Enfocado en desarrollo backend y arquitectura de software.
+- 📚 Siempre aprendiendo sobre nuevas tecnologías y metodologías de desarrollo.
+- 🎯 Actualmente, busco oportunidades para colaborar en proyectos que me permitan aplicar mis conocimientos y seguir creciendo.
+- 💼 Puedes consultar mi perfil de LinkedIn aquí: [LinkedIn](https://www.linkedin.com/in/arnau-baena-perez-862161298)
+
 <br>
 
-- Enfocado en desarrollo backend y arquitectura de software.
-- Siempre aprendiendo sobre nuevas tecnologías y metodologías de desarrollo.
-- Actualmente, busco oportunidades para colaborar en proyectos que me permitan aplicar mis conocimientos y seguir creciendo.
-- Puedes consultar mi perfil de LinkedIn aquí: [LinkedIn](https://www.linkedin.com/in/arnau-baena-perez-862161298)
-
-<br><br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Habilidades</b>
 <br>
@@ -88,7 +86,7 @@
 
 <a href="https://github.com/BaenaArnau">
   <img src="https://github-readme-stats.vercel.app/api?username=BaenaArnau&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BaenaArnau&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375" alt="Macnacka"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BaenaArnau&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375" alt="BaenaArnau"/>
 
 </a>
 </div>
@@ -121,7 +119,7 @@
 <img src="https://img.shields.io/badge/gmail:%20abaena300@gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt=mail style="margin-bottom: 5px;" />
 </a>
 </li>
-	
+    
 </ul>
 </div>
 
