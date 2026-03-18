@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Bienvenido+a+mi+perfil+de+GitHub;Desarrollador+Backend+y+Apasionado+por+la+tecnología;Siempre+aprendiendo+y+creciendo...">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Bienvenido+a+mi+perfil+de+GitHub;Desarrollador+Backend+y+Arquitectura+de+Software;Tambien+desarrollo+videojuegos+indie;Siempre+aprendiendo+y+creciendo...">
   </a>
 </p>
 
@@ -12,11 +12,13 @@
 
 <picture><img align="right" src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="260px"></picture>
 
-- 💻 Enfocado en **desarrollo backend** y **arquitectura de software**.  
-- 🚀 Apasionado por crear soluciones eficientes, escalables y limpias.  
-- 🌱 Siempre explorando **nuevas tecnologías y metodologías ágiles**.  
-- 🤝 Abierto a colaborar en proyectos interesantes y retadores.  
+- 💻 Enfocado en **desarrollo backend**, **arquitectura de software** y **buenas prácticas**.
+- 🎮 También desarrollo **videojuegos** (principalmente proyectos indie / game jams).
+- 🚀 Apasionado por crear soluciones eficientes, escalables y limpias.
+- 🌱 Siempre explorando **nuevas tecnologías y metodologías ágiles**.
+- 🤝 Abierto a colaborar en proyectos interesantes y retadores.
 - 💼 Conecta conmigo en **[LinkedIn](https://www.linkedin.com/in/arnau-baena-perez)**.
+- 🕹️ Mira mis juegos en **[itch.io](https://macnacka.itch.io/)**.
 
 <br clear="right"/>
 
@@ -79,6 +81,10 @@
 
 <a href="mailto:abaena300@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail%20-%20abaena300@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://macnacka.itch.io/" target="_blank">
+  <img src="https://img.shields.io/badge/itch.io%20-%20macnacka-fa5c5c?style=for-the-badge&logo=itch.io&logoColor=white"/>
 </a>
 
 </div>
